@@ -1,0 +1,42 @@
+h1, h2 {
+    text-align: center;
+}
+
+hr {
+    border-color: lightskyblue;
+}
+
+p {
+    margin: 0px;
+}
+
+
+.contenu {
+    width: 600px;
+    margin: 10 auto;
+    /* background-color: lightskyblue; */
+    }
+.details {
+    /* background-color: lightpink; */
+    height: 150px;
+}
+.liste_details {
+    /* background-color: lightsalmon; */
+    float: left;
+    width: 150;
+    list-style-type: none;
+    margin-top: 22px;
+
+}
+
+
+.cv-section {
+    /* background-color: lightsteelblue; */
+}
+
+div.details img {
+    /* width: 150px; */
+    height: 150px;
+    float: left;
+    border-radius: 50%;
+}
